@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d68d42b89ddccb409607e878cc91209, type: 3}
+  m_Name: T4ADAA
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 3043874316360500110, guid: 1e370e7405a0d0949baf871872f51dca, type: 3}
+  description: 
+  evolutions:
+  - {fileID: 11400000, guid: a8eabc301a019124f9ea984d97218834, type: 2}

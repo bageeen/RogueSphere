@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f4163cd070eb8047bd8995d9d335a51, type: 3}
+  m_Name: AntennaT2
+  m_EditorClassIdentifier: 
+  description: AntennaT2
+  weight: 0.5
+  rarityLevel: 0
+  equipementIcon: {fileID: 21300000, guid: 62899eb6d3fa28c49978316555dc3aff, type: 3}
+  equipementPrefab: {fileID: 6149389401490161971, guid: 91de242cb87a20d44b9604df182b1c34, type: 3}
+  tier: 2
+  type: antenna
+  nextTier: {fileID: 11400000, guid: f7e4c9c467d9722429b4270c55221c61, type: 2}
+  attributeModifications:
+  - attributeName: 13
+    Value: 4

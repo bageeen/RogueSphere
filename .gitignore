@@ -1,0 +1,68 @@
+# Système d'exploitation et IDE
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.swo
+*.bak
+*.log
+
+# Fichiers spécifiques à Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+# Fichiers créés par Unity lors des builds
+*.apk
+*.aab
+*.unitypackage
+
+# Paramètres spécifiques à l'utilisateur
+UserSettings/
+
+# Visual Studio / JetBrains Rider / MonoDevelop
+.vscode/
+.idea/
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.tmproj
+*.sln
+*.sln.docstates
+
+# Unity Plugin Files
+*.pidb.meta
+*.pdb
+*.mdb
+
+# Fichiers de tests locaux
+*.coverage
+*.coveragexml
+*.tlog/
+
+# Exclure les fichiers d'analyse statique
+.crunchcache/
+.fastresumecache/
+
+# Fichiers Unity Collab si vous utilisez Git à la place
+*.collab
+
+# Fichiers liés aux versions spécifiques
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+
+# Si vous utilisez des plugins comme Plastic SCM ou Collaborate
+.Plastic/
+# Si Collaborate est désactivé, ignorez aussi les fichiers relatifs
+.collabignore
+
+# Autres dossiers temporaires
+.backups/

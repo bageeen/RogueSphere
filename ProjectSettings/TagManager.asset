@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Doors
+  - Room
+  - SolidObjects
+  - E1Proj
+  - PlayerProj
+  - E1
+  - Loot
+  - LootParentObject
+  - BulletsFired
+  - ScreenCamera
+  - BG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - Doors
+  - Player Projectiles
+  - Enemies
+  - Guns
+  - Player
+  - 
+  - ItemsOnGround
+  - Room
+  - 
+  - AlliesProjectiles
+  - Allies
+  - Ennemies1Projectiles
+  - Ennemies1
+  - DeadEnemies
+  - 
+  - 
+  - DeadProjectiles
+  - 
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - UI - Background
+  - HealthBars
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3514944351
+    locked: 0
+  - name: Foreground
+    uniqueID: 535365855
+    locked: 0
+  - name: BehindEquipement
+    uniqueID: 422557919
+    locked: 0
+  - name: Objects
+    uniqueID: 554433365
+    locked: 0
+  - name: Player
+    uniqueID: 1358558733
+    locked: 0
+  - name: AboveEquipement
+    uniqueID: 3806093139
+    locked: 0
+  - name: Laser
+    uniqueID: 3189638047
+    locked: 0

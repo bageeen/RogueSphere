@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3e49e36a2a7414a9f0ccc9ccdb2afe, type: 3}
+  m_Name: EpicScrap
+  m_EditorClassIdentifier: 
+  itemName: EpicScrap
+  icon: {fileID: 0}
+  isStackable: 1
+  type: Scrap
+  possibleSprites:
+  - {fileID: 21300000, guid: 7c99f3c91257a0a4c89d8e5dcc800fba, type: 3}
+  - {fileID: 21300000, guid: 5b7a6116ae4479c4a91ae426ec939ba6, type: 3}
+  - {fileID: 21300000, guid: 45a5b5fc8dac5d34f8070b42b6c4724d, type: 3}
+  - {fileID: 21300000, guid: 3e5ed45c526c5e14099c65110cc8346c, type: 3}
+  - {fileID: 21300000, guid: d53ed38cb406ef744bc02503b3d5ec2e, type: 3}
+  - {fileID: 21300000, guid: 8b6246fb8bfdf4a4d994bb32b6cb4bdc, type: 3}
+  - {fileID: 21300000, guid: c7214bd6923c2454b81e01ee0db61ae4, type: 3}
+  - {fileID: 21300000, guid: d2c43c5ea204b4b46921aa514dc2d50d, type: 3}
+  - {fileID: 21300000, guid: 049735fc15f2a8a4091dc6121296ef1a, type: 3}
+  - {fileID: 21300000, guid: fe7f0cea50af2fb44844971d971d6209, type: 3}
+  - {fileID: 21300000, guid: e240e95401242514e98036cc3d56ce2e, type: 3}
+  - {fileID: 21300000, guid: 480bb7f60fc1e8e498ddf790f5382117, type: 3}
+  - {fileID: 21300000, guid: 4d14863d356f2474990844dcfa355193, type: 3}
+  - {fileID: 21300000, guid: 43451e8281cf3b64eb6493e17f6a8f2e, type: 3}
+  - {fileID: 21300000, guid: ba64bca314c460143a2ee3d98b665deb, type: 3}
+  - {fileID: 21300000, guid: 6ae28c6da9cbee64db7e70a3383149b2, type: 3}

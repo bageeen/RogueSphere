@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d68d42b89ddccb409607e878cc91209, type: 3}
+  m_Name: T2AC
+  m_EditorClassIdentifier: 
+  description: 
+  weight: 1
+  rarityLevel: 0
+  weaponPrefab: {fileID: 1081467786120676619, guid: f643f584d2f16bd458830cf52ba1bb56, type: 3}
+  evolutions:
+  - {fileID: 11400000, guid: 5ecdfed7fb95f0c4bb75decb8b925ed3, type: 2}
+  - {fileID: 11400000, guid: 4cfc586557688384fa4828d6cc3c5e9a, type: 2}
+  - {fileID: 11400000, guid: 2c09f166fbff1624eb7a775f2e18e12a, type: 2}

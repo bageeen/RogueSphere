@@ -1,0 +1,36 @@
+T1
+	-spawn
+	-shop
+	-salle normale avec spawn ennemi
+	-miniboss
+	-salle à tourelles
+	-salle à lasers (?)
+	-salle avec map (?)
+	-salle à trésors
+
+	-Next level
+
+
+
+T2
+	-Salle des trésors
+	-Labyrinthe
+	-Boss
+	-Survival room
+	
+
+
+Idée de boss : 
+
+	-Serpent : Plusieurs boules qui se suivent, pas de health bar, la couleur qui change en fonction de la vie
+
+	-Sniper : Patterns de mouvement précis, element exterieur pour stun
+
+
+Equipements  :
+	-antenne (augmente taille caméra)
+	-magnet (augmante range de pickup)
+	-clé a outil (augmente la vie par seconde)
+	-plaques blindage (augmente vie et masse)
+
+
