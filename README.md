@@ -13,6 +13,8 @@ ChatGPT has been used to help me during this project, as i had no experiences at
 The project consists on a rogue-like game, where you control a sphere with gun. Your goal is to survive as long as possible in a map that is generated procedurally.
 Your gun can evolve while leveling-up by killing enemies, and use a potential huge amount of differents guns.
 
+This is a demonstration video about this game : https://youtu.be/LSeZ-OUr2NA
+Please note that this is not a gameplay and this is only to shop up some functionnalities i made.
 ### Weapons
 
 I made the gun creation quite easy, by allowing everything about the statistics of a weapon to be modified in a .ods file.
